@@ -1,7 +1,6 @@
 import React from 'react'
 import ActorCard from './ActorCard';
 import IMAGE_NOT_FOUND from '../../images/not-found.png';
-import { Flexgrid } from '../styled';
 
 const ActorGrid = ({ data }) => {
     return(
